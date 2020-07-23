@@ -278,7 +278,7 @@ Title|ReleaseDate|RunTime|Rating
 "Star Trek: Season Three"|"2008-11-18"|0|"None"
 "Bones: Season Three"|"2008-11-18"|0|"None"
 "The Venture Bros.:Season Three"|"2009-03-24"|0|"None"
-"Everwood: Season Two"|"2009-06-16"|0|"NC-17"
+"Everwood: Season Two"|"2009-06-16"|0|"None"
 "Scrubs: Season Eight"|"2009-08-25"|0|"None"
 "How I Met Your Mother: Season Four"|"2009-09-28"|0|"None"
 "Bones: Season Four"|"2009-10-06"|0|"None"
