@@ -1,0 +1,2 @@
+,('states','/home/jon/Temp/GitHub/Illuminerdski/SampleFiles/states.csv',1,'STATE_ID',2,2,'STATEID')
+,('states','/home/jon/Temp/GitHub/Illuminerdski/SampleFiles/states.csv',2,'VALUE',2,2,'VALUE')
