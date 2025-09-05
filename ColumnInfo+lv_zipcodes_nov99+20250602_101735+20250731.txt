@@ -1,0 +1,7 @@
+,('lv_zipcodes_nov99','C:\Users\zielijo001\Temp\GitHub\Illuminerdski\SampleFiles\lv_zipcodes_nov99.csv',1,'ZIP_CODE',5,5,'ZIPCODE')
+,('lv_zipcodes_nov99','C:\Users\zielijo001\Temp\GitHub\Illuminerdski\SampleFiles\lv_zipcodes_nov99.csv',2,'LATITUDE',10,11,'LATITUDE')
+,('lv_zipcodes_nov99','C:\Users\zielijo001\Temp\GitHub\Illuminerdski\SampleFiles\lv_zipcodes_nov99.csv',3,'LONGITUDE',11,11,'LONGITUDE')
+,('lv_zipcodes_nov99','C:\Users\zielijo001\Temp\GitHub\Illuminerdski\SampleFiles\lv_zipcodes_nov99.csv',4,'ZIP_CLASS',1,1,'ZIPCLASS')
+,('lv_zipcodes_nov99','C:\Users\zielijo001\Temp\GitHub\Illuminerdski\SampleFiles\lv_zipcodes_nov99.csv',5,'PONAME',26,26,'PONAME')
+,('lv_zipcodes_nov99','C:\Users\zielijo001\Temp\GitHub\Illuminerdski\SampleFiles\lv_zipcodes_nov99.csv',6,'STATE',2,2,'STATE')
+,('lv_zipcodes_nov99','C:\Users\zielijo001\Temp\GitHub\Illuminerdski\SampleFiles\lv_zipcodes_nov99.csv',7,'COUNTY',3,3,'COUNTY')
