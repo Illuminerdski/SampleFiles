@@ -1,4 +1,4 @@
-Title|ReleaseDate|RunTime|Rating
+Title|Release Date|Run Time|Rating
 Batman|1943-04-15|260|None
 Batman and Robin|1949-05-26|263|None
 Ocean's Eleven|1960-08-10|127|None
